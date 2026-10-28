@@ -1,0 +1,9 @@
+PyQt6==6.10.2
+pynput==1.7.6
+qrcode==8.2
+pillow==12.1.0
+pyttsx3==2.90
+edge-tts==7.2.7
+requests==2.32.3
+psutil
+websocket-client==1.8.0
