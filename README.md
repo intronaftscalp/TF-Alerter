@@ -20,22 +20,19 @@ TF-Alerter помогает не пропускать важные рыночн�
 
 ## 🖼️ Скриншоты:
 
-<img width="506" height="801" alt="image" src="https://github.com/user-attachments/assets/cbc4da7f-96ec-45c2-af69-a4bd3b577338" />
+<img width="497" height="807" alt="image" src="https://github.com/user-attachments/assets/f89d0fc2-2982-42b3-94bc-8d613d117fd1" />
 
 ///////////////////////////////////////////////////////////////////////////////
 
-<img width="505" height="801" alt="image" src="https://github.com/user-attachments/assets/843fec96-5069-4da3-83d5-7ce17926c324" />
+<img width="501" height="808" alt="image" src="https://github.com/user-attachments/assets/d1877323-9386-4539-9565-454f231466fb" />
 
 ///////////////////////////////////////////////////////////////////////////////
 
-<img width="501" height="803" alt="image" src="https://github.com/user-attachments/assets/f5a0294c-86f1-4022-a137-482b537c1c18" />
+<img width="505" height="804" alt="image" src="https://github.com/user-attachments/assets/8e827ea2-c9e5-4718-8fa4-4068ef6cda84" />
 
 ///////////////////////////////////////////////////////////////////////////////
 
-<img width="502" height="802" alt="image" src="https://github.com/user-attachments/assets/b0675288-b364-4f80-990b-e7c0174c0e44" />
-
-
-
+<img width="502" height="802" alt="image" src="https://github.com/user-attachments/assets/d3fa4c89-c8e5-44a7-8714-dc12dc9f761c" />
 
 
 ## 🔓 Open Source
@@ -70,8 +67,5 @@ TF-Alerter помогает не пропускать важные рыночн�
 - Аудио: любое рабочее устройство вывода (динамики/наушники) для звуков и TTS.
 - Интернет: нужен для получения рыночных данных и онлайн-озвучки Edge TTS. Системная озвучка Windows работает офлайн.
 
-## 🛡️ Безопасность
-
-Перед запуском изучите исходный код и устанавливайте зависимости только из `requirements.txt`.
 
 
